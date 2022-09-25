@@ -1,6 +1,6 @@
 /*
-› Create By @RIY
-› Base Ori @DikaArdnt
+› Create By @Pet
+› Base Ori @Peterbase
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
 */
@@ -88,7 +88,7 @@ botAdmin: '_Bot Harus Jadi Admin Terlebih Dahulu Guys!_',
 owner: '_Fitur Hanya Untuk Owner Bot_',
 group: '_Fitur Digunakan Hanya Untuk Group Yah!_',
 private: '_Fitur Digunakan Hanya Untuk Private Chat Cuy!_',
-bot: '_Fitur Khusus Pengguna Nomor Bot_',
+bot: '_Fitur Khusus Pengguna Nomor Bot yah_',
 wait: '_Processing..._',
 error: '_Fitur Lagi Error!_',
 endLimit: '_Limit Harian Kamoeh Telah Habis, Limit Direset Setiap Jam 12_',
