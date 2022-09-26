@@ -68,21 +68,21 @@ npm start
 ## Edit file
 `./settings.js`
 ```ts
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RIY'
-global.botname = 'Chika-Md'
+global.owner = ['6281280174445']
+global.premium = ['6281280174445']
+global.ownernomer = '6281280174445'
+global.ownername = 'PET'
+global.botname = 'Peter-Botz'
 global.footer = 'RIY'
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'riychdwaynee@gmail.com'
+global.youtube = 'https://youtube.com/channel/UC2yce20yVSvDQLI3uL5wUjw'
+global.ig = 'https://instagram.com/onlypet_oky'
+global.mygc = 'https://chat.whatsapp.com/JEv6rKBV6ZwE923iMZW9R5'
+global.myweb = 'https://github.com/Peterelzevir/Peter-Botz/'
+global.email = 'Petbotz@gmail.com'
 global.region = 'indonesia'
-global.packname = '© Chika-Md'
-global.author = 'RIY'
-global.sessionName = 'chika'
+global.packname = '© Peter-Botz'
+global.author = 'PET'
+global.sessionName = 'peter'
 ```
 
 ## ```HOW TO DEPLOY```
