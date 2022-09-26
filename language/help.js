@@ -1,6 +1,6 @@
 /*
-› Create By @RIY
-› Base Ori @DikaArdnt
+› Create By @PET
+› Base Ori @Petdatabase
 › Kalau mau ubah/edit owner di settings.js
 › Kalau mau tambahin fitur di index.js
 */
