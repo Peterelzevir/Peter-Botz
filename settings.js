@@ -41,8 +41,8 @@ global.email = 'Petbotz@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Pet-Botz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Pet' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© Pinemark Bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Pinemark' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -82,15 +82,15 @@ global.sp = '⭔'
 //—————「 Set Message 」—————//
 //terserah mau ubah apa nggak, note : tanda ' gausah di hapus!
 global.mess = {
-success: '_Done._',
-admin: '_Fitur Khusus Admin Group!_',
+success: 'Done Bang',
+admin: '_Khusus Admin Group!_',
 botAdmin: '_Bot Harus Jadi Admin Terlebih Dahulu Guys!_',
 owner: '_Fitur Hanya Untuk Owner Bot_',
 group: '_Fitur Digunakan Hanya Untuk Group Yah!_',
 private: '_Fitur Digunakan Hanya Untuk Private Chat Cuy!_',
 bot: '_Fitur Khusus Pengguna Nomor Bot yah_',
-wait: '_Processing..._',
-error: '_Fitur Lagi Error!_',
+wait: '_Processing yak..._',
+error: '_Fitur Lagi Error Bos!_',
 endLimit: '_Limit Harian Kamoeh Telah Habis, Limit Direset Setiap Jam 12_',
 }
 
