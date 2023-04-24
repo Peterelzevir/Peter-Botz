@@ -1,6 +1,6 @@
 /*
-› Create By @PET
-› Base Ori @Petdatabase
+› Create By @Pinemarkbot
+› Base Ori @Pinemarkdatabase
 › Kalau mau ubah/edit owner di settings.js
 › Kalau mau tambahin fitur di index.js
 */
@@ -418,15 +418,9 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}setallmenu
   
   *THANKS TO*
-  *≻* DikaArdnt
-  *≻* ZeeoneOfc
-  *≻* FatihArridho
-  *≻* Yoga
-  *≻* Riy
-  *≻* Deff
-  *≻* Sanzy
-  *≻* Nekel
-  *≻* Bagas Prdn
+  *>* Pinemark bot
+  *≻* Github
+  *>* Replit
   `
 }
 
@@ -438,7 +432,7 @@ exports.welcome = () => {
 
 //—————「 Leave 」—————//
 exports.leave = () => {
-	return`Byeee
+	return`Byeee bang/kak
 `
 }
 
@@ -449,15 +443,15 @@ exports.donasi  = (ownernomer) => {
 
 Hai kak ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
-Berapapun donasi kalian akan sangat berarti 👍
+Berapapun donasi kalian akan sangat berarti 
 
 Thanks!
 
 —————「 *SEWA | RUN BOT* 」—————
 
   *_SEWA BOT_* 
-  *≻* Sewa Bot 15k (1 minggu)
-  *≻* Sewa Bot 20k (1 bulan)
+  *≻* Sewa Bot 10k (1 minggu)
+  *≻* Sewa Bot 17k (1 bulan)
   *≻* Sewa Bot 25k (Permanen)
 
   *JADI BOT* 
@@ -466,11 +460,11 @@ Thanks!
   *≻* Jadi Bot + Owner 25k (Permanen)
 
   *JASA RUN BOT*
-  *≻* Run Bot 15k (1 minggu)
-  *≻* Run Bot 20k (1 bulan)
+  *≻* Run Bot 7k (1 minggu)
+  *≻* Run Bot 15k (1 bulan)
   *≻* Run Bot 25k (Permanen)
 
-  *Minat? Langsung chat aja ya cuy 🐦*
+  *Minat? Langsung chat aja ya cuy*
 
   *Contact person Owner* :
   wa.me/${ownernomer}
@@ -953,14 +947,8 @@ exports.ownermenu = (prefix) => {
 exports.thanksto = () => {
 	return`
   *THANKS TO*
-  *≻* DikaArdnt
-  *≻* ZeeoneOfc
-  *≻* FatihArridho
-  *≻* Yoga
-  *≻* Riy
-  *≻* Deff
-  *≻* Sanzy
-  *≻* Nekel
-  *≻* Bagas Prdn
+  *≻* Pinemark Bot Premium
+  *≻* Github
+  *≻* Replit.co
 `
 }
